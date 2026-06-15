@@ -1,105 +1,189 @@
-            <h3>
-              A Cutaneous Phaeohyphomycosis Case Caused by Paraconiothyrium
-              cyclothyrioides in Southern China
-            </h3>
-            <p>
-              Your Name, Coauthor Name. Journal or Conference Name, 2026.
-              J Li, MD Yaqoob, K Liu, H Sun, Q Qiu, X Ke, Y Hu. Infection and
-              Drug Resistance, 2401-2404.
-            </p>
-          <article class="publication">
-            <p class="publication-type">Conference Paper</p>
-            <h3>Reliable Evaluation Methods for AI-Assisted Research</h3>
-            <p class="publication-type">2024 | 1 citation</p>
-            <h3>
-              The Relationship Between Social Media Use and Adolescent Mental
-              Health: A Systematic Review
-            </h3>
-            <p>
-              Your Name, Coauthor Name. Proceedings of Example Conference,
-              2025.
-              MD Yaqoob, W Cho, K Saleem, K Anjum, M Dou, X Feng, H Chattha.
-              Systemic Psychology and Sociology, 77.
-            </p>
-          <article class="publication">
-            <p class="publication-type">Research Project</p>
-            <h3>Interactive Literature Review Assistant</h3>
-            <p class="publication-type">2025</p>
-            <h3>
-              Integrated chemical-spectroscopic analysis of flavonoids and
-              mineral elements in Five Rosa rugosa cultivars
-            </h3>
-            <p>
-              A prototype system for organizing papers, extracting themes, and
-              supporting transparent academic synthesis.
-              H Liu, LL Zhao, MD Yaqoob, J Sun, S Zhao, J Liu. Journal of Food
-              Composition and Analysis 148, 108423.
-            </p>
-          </article>
-
-          <article class="publication">
-            <p class="publication-type">2024</p>
-            <h3>Application of Photodymamic Therapy in infectious skin diseases</h3>
-            <p>
-              Hu Yongxuan, Wu Xuelin, Chen Wenyi, Yaqoob Muhammad Danish, Ye
-              Huiying, Zhou Xianyi, Mao Zuhao, Wu Zhong, et al.
-            </p>
-          </article>
-
-          <article class="publication">
-            <p class="publication-type">2024</p>
-            <h3>Clinical efficacy of treatment to plantar wart by Paiteling</h3>
-            <p>
-              Liu Yuanling, Chen Wenyi, Wu Xuelin, Hu Yanqing, Muhammad Danish
-              Yaqoob, et al. International Medical and Health Guidance News
-              30(3), 1028-1031.
-            </p>
-          </article>
-
-          <article class="publication">
-            <p class="publication-type">2023</p>
-            <h3>
-              A Comparative Study Of Anemia In Normal Patients And Patients
-              With Renal Failure
-            </h3>
-            <p>
-              SU Manzoor Hussain, Muhammad Danish Yaqoob, Muhammad Naveed
-              Adil, Abrar, et al. Journal of Pharmaceutical Negative Results
-              14(02-2023), 2733-2737.
-            </p>
-          </article>
-
-          <article class="publication">
-            <p class="publication-type">2022</p>
-            <h3>
-              Diagnostic evaluation of nasopharyngeal swab and saliva kits
-              against SARS-CoV-2
-            </h3>
-            <p>
-              MD Yaqoob, MA Ahad, M Zahra, ZZ Piracha, U Saeed.
-            </p>
-          </article>
-
-          <article class="publication">
-            <p class="publication-type">SSRN</p>
-            <h3>
-              Prediction of potential distribution and analysis of dominant
-              variables for Meconopsis quintuplinervia Regel in China based on
-              the coupling of MaxEnt and Geodetector
-            </h3>
-            <p>
-              Z Su, X Feng, P Dawa, Z Jing, R Zeng, MD Yaqoob, P Mima,
-              H Liu. Available at SSRN 5776783.
-            </p>
-          </article>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Muhammad Danish Yaqoob</title>
+    <meta
+      name="description"
+      content="Academic profile of Muhammad Danish Yaqoob, researcher in photodynamic therapy, dermatology, venerology, and global health."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="page-shell">
+      <aside class="profile-card">
+        <div class="portrait-wrap">
+          <img
+            class="portrait"
+            src="https://scholar.googleusercontent.com/citations?view_op=view_photo&amp;user=x6yb0GIAAAAJ&amp;citpid=3"
+            alt="Muhammad Danish Yaqoob"
+          />
+          <div class="badge" aria-label="Academic profile badge">MD</div>
         </div>
-        <div class="contact-links" aria-label="Academic links">
-          <a href="mailto:your.email@university.edu">your.email@university.edu</a>
-          <a href="https://scholar.google.com">Google Scholar</a>
-          <a href="https://orcid.org">ORCID</a>
-          <a href="https://www.linkedin.com">LinkedIn</a>
-          <a href="https://scholar.google.com/citations?user=x6yb0GIAAAAJ&amp;hl=en">Google Scholar</a>
-          <a href="https://www.researchgate.net/profile/Muhammad-Danish-Yaqoob-2">ResearchGate</a>
-          <a href="https://www.linkedin.com/in/danish-yaqoob/">LinkedIn</a>
-          <a href="https://scholar.google.com/citations?user=x6yb0GIAAAAJ&amp;hl=en">Verified: smu.edu.cn</a>
-        </div># danishyaqoob.github.io
+
+        <h1>Muhammad Danish Yaqoob</h1>
+        <p class="role">
+          <span class="icon" aria-hidden="true">▰</span>
+          Researcher at Southern Medical University
+        </p>
+        <p class="tags">Physician · Researcher · Global Health</p>
+
+        <div class="divider"></div>
+
+        <ul class="meta-list" aria-label="Profile details">
+          <li>
+            <span class="line-icon" aria-hidden="true">⌖</span>
+            Southern Medical University
+          </li>
+          <li>
+            <span class="line-icon" aria-hidden="true">◎</span>
+            Photodynamic Therapy · Dermatology · Venerology
+          </li>
+          <li>
+            <span class="line-icon" aria-hidden="true">↗</span>
+            108 Google Scholar citations
+          </li>
+        </ul>
+
+        <blockquote>
+          Researcher focused on photodynamic therapy, dermatology, infectious
+          skin disease, narrative medicine, and interdisciplinary approaches to
+          patient-centered health outcomes.
+        </blockquote>
+      </aside>
+
+      <section class="content-grid" aria-label="Academic profile content">
+        <article class="panel publications-panel">
+          <div class="panel-title">
+            <span class="title-icon" aria-hidden="true">▧</span>
+            <h2>Selected Research Work</h2>
+          </div>
+
+          <ol class="publication-list">
+            <li>
+              <span class="index">1</span>
+              <a
+                href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=x6yb0GIAAAAJ&amp;citation_for_view=x6yb0GIAAAAJ:Ug5p-4gJ2f0C"
+              >
+                Targeting mitochondria for cancer photodynamic therapy
+              </a>
+              <time>2022</time>
+            </li>
+            <li>
+              <span class="index">2</span>
+              <a
+                href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=x6yb0GIAAAAJ&amp;citation_for_view=x6yb0GIAAAAJ:NXb4pA-qfm4C"
+              >
+                A Cutaneous Phaeohyphomycosis Case Caused by
+                Paraconiothyrium cyclothyrioides in Southern China
+              </a>
+              <time>2024</time>
+            </li>
+            <li>
+              <span class="index">3</span>
+              <a
+                href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=x6yb0GIAAAAJ&amp;citation_for_view=x6yb0GIAAAAJ:0izLItjtcgwC"
+              >
+                Application of Photodymamic Therapy in infectious skin diseases
+              </a>
+              <time>2024</time>
+            </li>
+            <li>
+              <span class="index">4</span>
+              <a
+                href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=x6yb0GIAAAAJ&amp;citation_for_view=x6yb0GIAAAAJ:HtEfBTGE9r8C"
+              >
+                Clinical Humanistic Needs of Chinese Medicine Treatment for
+                Patients with Chronic Urticaria
+              </a>
+              <time>2024</time>
+            </li>
+            <li>
+              <span class="index">5</span>
+              <a
+                href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=x6yb0GIAAAAJ&amp;citation_for_view=x6yb0GIAAAAJ:QYdC8u9Cj1oC"
+              >
+                The Relationship Between Social Media Use and Adolescent Mental
+                Health: A Systematic Review
+              </a>
+              <time>2024</time>
+            </li>
+          </ol>
+
+          <a
+            class="text-link"
+            href="https://scholar.google.com/citations?user=x6yb0GIAAAAJ&amp;hl=en"
+          >
+            View full publication list on Google Scholar
+          </a>
+        </article>
+
+        <article class="panel pinned-panel">
+          <div class="panel-title">
+            <span class="title-icon" aria-hidden="true">✦</span>
+            <h2>Pinned</h2>
+          </div>
+
+          <div class="pinned-grid">
+            <section class="pin-card purple">
+              <div class="pin-icon" aria-hidden="true">AI</div>
+              <h3>AI in Healthcare</h3>
+              <p>Clinical decision support, analytics, and health systems.</p>
+            </section>
+
+            <section class="pin-card green">
+              <div class="pin-icon" aria-hidden="true">☼</div>
+              <h3>Photodynamic Therapy</h3>
+              <p>PDT mechanisms, photosensitizers, and medical translation.</p>
+            </section>
+
+            <section class="pin-card blue">
+              <div class="pin-icon" aria-hidden="true">□</div>
+              <h3>Narrative Medicine</h3>
+              <p>Patient narratives and humanistic healthcare research.</p>
+            </section>
+
+            <section class="pin-card orange">
+              <div class="pin-icon" aria-hidden="true">◎</div>
+              <h3>Global Health Research</h3>
+              <p>Collaborative work on public health challenges.</p>
+            </section>
+          </div>
+        </article>
+
+        <article class="panel interests-panel">
+          <div class="panel-title">
+            <span class="title-icon" aria-hidden="true">▱</span>
+            <h2>Research Interests</h2>
+          </div>
+
+          <div class="chips" aria-label="Research interests">
+            <span class="chip purple">AI in Healthcare</span>
+            <span class="chip green">Photodynamic Therapy</span>
+            <span class="chip blue">Narrative Medicine</span>
+            <span class="chip orange">Global Health Research</span>
+            <span class="chip purple">Open Science</span>
+          </div>
+        </article>
+
+        <article class="panel links-panel">
+          <div class="panel-title">
+            <span class="title-icon" aria-hidden="true">↗</span>
+            <h2>Profiles</h2>
+          </div>
+
+          <div class="links">
+            <a href="https://scholar.google.com/citations?user=x6yb0GIAAAAJ&amp;hl=en">
+              Google Scholar
+            </a>
+            <a href="https://www.researchgate.net/profile/Muhammad-Danish-Yaqoob-2">
+              ResearchGate
+            </a>
+            <a href="https://www.linkedin.com/in/danish-yaqoob/">LinkedIn</a>
+          </div>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>
