@@ -8,9 +8,9 @@
      style = "float:left; margin:5px;"/>
 
 - Email: 
-- Researchgate: <a href="[https://www.researchgate.net/profile/Ying-Ying-Xu](https://www.researchgate.net/profile/Muhammad-Danish-Yaqoob-2)" >[https://www.researchgate.net/profile/Ying-Ying-Xu](https://www.researchgate.net/profile/Muhammad-Danish-Yaqoob-2)</a>
-- Google Scholar: <a href="[https://yingying-xu.github.io](https://scholar.google.com/citations?user=x6yb0GIAAAAJ&hl=en)">[https://yingying-xu.github.io](https://scholar.google.com/citations?user=x6yb0GIAAAAJ&hl=en)</a>
-- Github: <a href="[https://yingying-xu.github.io](https://github.com/danishgenius9-ui)">[https://yingying-xu.github.io](https://github.com/danishgenius9-ui)</a>
+- Researchgate: <a href="https://www.researchgate.net/profile/Muhammad-Danish-Yaqoob-2" >https://www.researchgate.net/profile/Muhammad-Danish-Yaqoob-2)</a>
+- Google Scholar: <a href="https://scholar.google.com/citations?user=x6yb0GIAAAAJ&hl=en">https://scholar.google.com/citations?user=x6yb0GIAAAAJ&hl=en</a>
+- Github: <a href="https://github.com/danishgenius9-ui">https://github.com/danishgenius9-ui</a>
 
      
 <br>
