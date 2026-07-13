@@ -1,5 +1,5 @@
 
-# Ying-Ying Xu
+# Muhammad Danish Yaqoob
 
 <img src="muhammad%20danish%20yaqoob.jpg"
      alt="Photo"
@@ -7,10 +7,10 @@
      height="135"
      style = "float:left; margin:5px;"/>
 
-- Email: yyxu@smu.edu.cn
-- Researchgate: <a href="https://www.researchgate.net/profile/Ying-Ying-Xu" >https://www.researchgate.net/profile/Ying-Ying-Xu</a>
-- Github: <a href="https://yingying-xu.github.io">https://yingying-xu.github.io</a>
-- Chinese webpage (中文): <a href="https://portal.smu.edu.cn/swyxgcxy/info/1020/1382.htm">https://portal.smu.edu.cn/swyxgcxy/info/1020/1382.htm</a>
+- Email: 
+- Researchgate: <a href="[https://www.researchgate.net/profile/Ying-Ying-Xu](https://www.researchgate.net/profile/Muhammad-Danish-Yaqoob-2)" >[https://www.researchgate.net/profile/Ying-Ying-Xu](https://www.researchgate.net/profile/Muhammad-Danish-Yaqoob-2)</a>
+- Google Scholar: <a href="[https://yingying-xu.github.io](https://scholar.google.com/citations?user=x6yb0GIAAAAJ&hl=en)">[https://yingying-xu.github.io](https://scholar.google.com/citations?user=x6yb0GIAAAAJ&hl=en)</a>
+- Github: <a href="[https://yingying-xu.github.io](https://github.com/danishgenius9-ui)">[https://yingying-xu.github.io](https://github.com/danishgenius9-ui)</a>
 
      
 <br>
@@ -18,14 +18,14 @@
 
 ## About Me
 
-My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical Engineering, Southern Medical University. My research interests include bioinformatics, image processing, and pattern recognition. Our group develops machine learning models for the analysis of bioimages. For example, we design computational algorithms to recognize protein subcellular localization in both qualitative and quantitative manners from immunohistochemistry images, immunofluorescence images, and other proteomics data. 
+PhD candidate in Global Health at Tsinghua University and medical professional with experience in dermatology, venereology, and immunology. My work focuses on AI in healthcare, digital health innovation, and research in photodynamic therapy and skin health. I bring strong leadership skills, with experience leading research projects, guiding teams, and collaborating across disciplines to create meaningful clinical and healthcare impact.
+ 
 
 ## Experience
 
-- Associate Professor, Southern Medical University, China (2017-)
-- Visiting PhD Student, Carnegie Mellon University, USA, Supervised by <a href="https://murphylab.web.cmu.edu/">Robert F. Murphy</a> (2015-2016)
-- PhD, Shanghai Jiao Tong University, China, Supervised by <a href="http://www.csbio.sjtu.edu.cn">Hong-Bin Shen</a> (2011-2017)
-- BS, Northeastern University at Qinhuangdao, China (2007-2011)
+- PhD in Global Health, Vanke School of Public Health, Tsinghua University, Beijing, China (2026-)
+- MMed in Dermatology and Venereology, Southern Medical University, China (2023-2026)
+- MBBS (Clinical Medicine), Binzhou Medical University, China (2017-2023)
 
 ## Research Projects
 
