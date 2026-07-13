@@ -1,7 +1,7 @@
 
 # Ying-Ying Xu
 
-<img src="yyxu1.jpg"
+<img src="muhammad%20danish%20yaqoob.jpg"
      alt="Photo"
      width="160"
      height="135"
