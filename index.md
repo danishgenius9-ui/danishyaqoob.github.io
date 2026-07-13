@@ -3,7 +3,7 @@
 
 <img src="muhammad%20danish%20yaqoob.jpg"
      alt="Photo"
-     width="160"
+     width="135"
      height="135"
      style = "float:left; margin:5px;"/>
 
